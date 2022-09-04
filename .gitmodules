@@ -1,0 +1,3 @@
+[submodule "vshojosort"]
+	path = vshojosort
+	url = https://github.com/jackchen0226/vshojosort.git
